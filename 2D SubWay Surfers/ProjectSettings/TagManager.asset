@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bachao
+  - Cleaner
+  - SpawnZero
+  - Coin
+  - CoinMagnet
+  - PlayerSafe
+  - Bombs
+  - AllObs
+  - BT1
+  - BT2
+  - BT5
+  - O1
+  - O2
+  - RT1
+  - RT2
+  - RT4
+  - YT1
+  - YT2
+  - YT5
+  - AngryMagnet
+  - CR2
+  - CB2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - CoinLayer
+  - BombLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
